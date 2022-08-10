@@ -10,11 +10,10 @@ Read the docs
 ### Prerequisites
 
 
-  ```
+```
   install git
   install dvc
-  
-  ```
+   ```
 
 ### Installation
 
@@ -23,7 +22,7 @@ Read the docs
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git](https://github.com/pallavi-poddar/DVC-demo.git
+   git clone https://github.com/pallavi-poddar/DVC-demo.git
    ```
 
 
@@ -31,7 +30,7 @@ Read the docs
 
 <!-- CONTACT -->
 ## Contact
-
+Usha Jagannath - [LinkedIn]() - poddarpallavi22@gmail.com
 Pallavi Poddar Gupta - [LinkedIn]() - poddarpallavi22@gmail.com
 
 
@@ -39,8 +38,8 @@ Pallavi Poddar Gupta - [LinkedIn]() - poddarpallavi22@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+  
 * [DVC](https://dvc.org)
 
 
