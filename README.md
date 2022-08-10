@@ -31,6 +31,7 @@ Read the docs
 <!-- CONTACT -->
 ## Contact
 Usha Jagannath - [LinkedIn]() - poddarpallavi22@gmail.com
+
 Pallavi Poddar Gupta - [LinkedIn]() - poddarpallavi22@gmail.com
 
 
