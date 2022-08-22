@@ -26,7 +26,12 @@ Read the docs
    $ cd DVC-demo
    ```
 
-
+2. Install Virtual Environment and install dependencies
+   ```sh
+   $ python3 -m venv omni_env
+   $ source omni_env/bin/activate
+   $ pip install -r requirements.txt
+   ```
 
 
 <!-- CONTACT -->
