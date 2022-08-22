@@ -28,8 +28,8 @@ Read the docs
 
 2. Install Virtual Environment and install dependencies
    ```sh
-   $ python3 -m venv omni_env
-   $ source omni_env/bin/activate
+   $ python3 -m venv dvc_env
+   $ source dvc_env/bin/activate
    $ pip install -r requirements.txt
    
    ```
