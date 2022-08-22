@@ -30,9 +30,9 @@ Read the docs
 
 <!-- CONTACT -->
 ## Contact
-Usha Jagannath - [LinkedIn]() - poddarpallavi22@gmail.com
+Usha Jagannath - [LinkedIn]() - https://www.linkedin.com/in/jagannathan-usha/
 
-Pallavi Poddar Gupta - [LinkedIn]() - poddarpallavi22@gmail.com
+Pallavi Poddar Gupta - [LinkedIn]() - https://www.linkedin.com/in/pallavi-poddar-b908b934/
 
 
 
