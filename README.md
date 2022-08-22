@@ -22,7 +22,8 @@ Read the docs
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pallavi-poddar/DVC-demo.git
+   $ git clone https://github.com/pallavi-poddar/DVC-demo.git
+   $ cd DVC-demo
    ```
 
 
