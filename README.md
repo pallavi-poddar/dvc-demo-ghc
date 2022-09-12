@@ -16,6 +16,11 @@ Read the docs
   install git
   install dvc
    ```
+### Setting up DVC to work with S3 remote
+   ```
+  pip install 'dvc[s3]'
+  Install AWS CLI
+   ```
 
 ### Installation
 
