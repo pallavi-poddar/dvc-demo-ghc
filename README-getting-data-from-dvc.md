@@ -21,7 +21,7 @@ Git, DVC and AWS CLI should be installed on your machine
 ```
 
 ### Pull Data from DVC
-(This step may require you to configure AWS creentials)
+(This step may require you to configure AWS credentials)
 ```
  DVC pull
 ```
