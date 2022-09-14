@@ -9,39 +9,38 @@
 Git, DVC and AWS CLI should be installed on your machine
 
 ```
-  pip install git
-  pip install dvc
-  pip install "dvc[s3]"
-   ```
+ pip install git
+ pip install dvc
+ pip install "dvc[s3]"
+```
 ### Create a new directory to clone the project
-   ```
-   mkdir mydvc
-   cd mydvc
-   git clone https://github.com/pallavi-poddar/DVC-demo.git
-   ```
+```
+ mkdir mydvc
+ cd mydvc
+ git clone https://github.com/pallavi-poddar/DVC-demo.git
+```
 
 ### Pull Data from DVC
-   (This step may require you to configure AWS creentials)
-
-   ```
-   DVC pull
-   ```
+(This step may require you to configure AWS creentials)
+```
+ DVC pull
+```
 
 ### Create a python virtual environment and activate it
-   ```
-   $ python3 -m venv dvc_env
-   $ source dvc_env/bin/activate     
-   ```
- ### Install the requirements
- ```
-   pip install -r requirements.txt   
- ```
+```
+ python3 -m venv dvc_env
+ source dvc_env/bin/activate     
+```
+### Install the requirements
+```
+ pip install -r requirements.txt   
+```
 
-  ### Run the code
- ```
-      cd src
-      python3 predict_cancer.py 
- ```
+### Run the code
+```
+ cd src
+ python3 predict_cancer.py 
+```
 
 ## Links
 
