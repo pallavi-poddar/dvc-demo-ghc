@@ -44,16 +44,12 @@ Git, DVC and AWS CLI should be installed on your machine
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Repository: https://github.com/pallavi-poddar/DVC-demo
 - Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
-- Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc
+- Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
 - Changing data set: https://github.com/pallavi-poddar/dvc-demo-ghc
-- Kickstarting your project: https://github.com/pallavi-poddar/dvc-demo-ghc
+
 
 
 

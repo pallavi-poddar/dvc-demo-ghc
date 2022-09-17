@@ -7,25 +7,31 @@
 
 ## Getting Started
 
-Read the docs
 
-### Prerequisites
+### Install git
+   #### On Windows
+   Download from here and install https://git-scm.com/download/win
 
-
-```
-  install git
-  install dvc
+#### On Mac
+   Check if it is already installed
    ```
-### Setting up DVC to work with S3 remote
+   git --version
    ```
-  pip install 'dvc[s3]'
-  Install AWS CLI
+   if not then download from here and install https://git-scm.com/download/mac
+
+### Install dvc
+   #### Installing using pip
    ```
+   pip install dvc
+   pip install 'dvc[s3]'
+   ```
+   For other install option check here https://dvc.org/doc/install
 
-### Installation
+### Install AWS CLI
+    Refer to instructions on https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 
-
+## Running code
 
 1. Clone the repo
    ```sh
@@ -40,7 +46,7 @@ Read the docs
    $ pip install -r requirements.txt
      
    ```
- 3. Execute  the following command to train teh classification model
+ 3. Execute  the following command to train the classification model
  ```sh
    $ cd DVC-demo/src
    $ python3 predict_cancer.py
@@ -59,9 +65,17 @@ Pallavi Poddar Gupta - [LinkedIn]() - https://www.linkedin.com/in/pallavi-poddar
 <!-- ACKNOWLEDGMENTS -->
 ## All acknowledgments
 
-
-  
 * [DVC](https://dvc.org)
+* [Data set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+* [GIT](https://git-scm.com/)
+
+## Links
+
+- Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
+- Repository: https://github.com/pallavi-poddar/DVC-demo
+- Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
+- Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
+- Changing data set: https://github.com/pallavi-poddar/dvc-demo-ghc
 
 
 
