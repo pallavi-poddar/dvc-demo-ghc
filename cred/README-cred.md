@@ -1,1 +1,1 @@
-![My Image](images/cred-qr.jpeg)
+![My Image](images/creds-qr.jpeg)
