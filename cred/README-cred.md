@@ -1,1 +1,1 @@
-![My Image](images/creds-qr.jpeg)
+![My Image](../images/creds-qr.jpeg)
