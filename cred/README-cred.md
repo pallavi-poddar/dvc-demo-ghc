@@ -4,6 +4,9 @@
   
 Run command aws configure and add secrets
 ```
+aws configure
+```
+```
 Access Key ID: AKIA3JOVAH7OK7YA63WN
 Secret Access Key: 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
 Default region Name: us-east-2
