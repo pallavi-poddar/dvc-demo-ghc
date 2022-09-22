@@ -36,6 +36,13 @@ Git, DVC and AWS CLI should be installed on your machine
  cd DVC_demo
  pip install -r requirements.txt   
 ```
+Incase of error while installing requirements, install the following dependcies one by one
+```
+ pip install numpy
+ pip install pandas
+ pip install sklearn
+  
+```
 
 ### Run the code
 ```
