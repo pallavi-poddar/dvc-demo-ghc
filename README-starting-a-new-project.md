@@ -58,7 +58,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
  cd <root-folder>
  mkdir dvc_remote
 ```
-### initialize dvc
+### Initialize dvc
 ```
  dvc init
  
