@@ -49,14 +49,13 @@ Incase of error while installing requirements, install the following dependcies 
  cd src
  python3 predict_cancer.py 
 ```
-
 ## Links
 
 - Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Repository: https://github.com/pallavi-poddar/DVC-demo
 - Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
-- Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
-
+- Cloning an existing project and executing: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
+- Getting started with a new project: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
 
 
 
