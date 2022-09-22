@@ -1,8 +1,8 @@
 
 
 
-
 <!-- Starting a new project -->
+## Creating a new ML project from the scratch with focus on code and data versioning
 
 
 ### Prerequisites
@@ -45,7 +45,7 @@ Git and DVC should be installed on your machine
 You may be asked for authentication while pushing your code to git which may require a personal access token(PAT). This is link to generate PAT
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
-### Create data folder and add sample data to oy
+### Create data folder and add sample data
 ```
  mkdir dataset
  cd dataset
