@@ -26,6 +26,7 @@ Git and DVC should be installed on your machine
 ```
 ### Initialize git 
 ```
+ cd ../
  git init
 ```
 
