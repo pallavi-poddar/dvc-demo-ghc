@@ -26,13 +26,14 @@ Git, DVC and AWS CLI should be installed on your machine
  DVC pull
 ```
 
-### Create a python virtual environment and activate it
+### Goto root folder and create a python virtual environment and activate it
 ```
  python3 -m venv dvc_env
  source dvc_env/bin/activate     
 ```
 ### Install the requirements
 ```
+ cd DVC_demo
  pip install -r requirements.txt   
 ```
 
