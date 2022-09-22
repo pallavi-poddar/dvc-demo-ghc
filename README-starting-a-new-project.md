@@ -42,6 +42,9 @@ Git and DVC should be installed on your machine
  git branch -M main
  git push -u origin main 
 ```
+You may be asked for authentication while pushing your code to git which may require a personal access token(PAT). This is link to generate PAT
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 ### Create data folder and add sample data to oy
 ```
  mkdir dataset
@@ -55,25 +58,37 @@ Git and DVC should be installed on your machine
  cd <root-folder>
  mkdir dvc_remote
 ```
-### initialize dvc and add data files to it
+### initialize dvc
 ```
  dvc init
  
 ```
 
-### Push the code to git
+### Add a DVC remote
 ```
- git remote add origin https://github-com/<account-name>/ghc-demo.git
- git branch -M main
- git push -u origin main
+ dvc remote add -d remote_local <absolute path>/dvc_remote
+ 
+```
+### Add sample data set to dvc
+```
+ dvc add cancer-data.txt
+ 
 ```
 
-### Push the code to git
+### Push the newly generated metafiles to git
 ```
- git remote add origin https://github-com/<account-name>/ghc-demo.git
- git branch -M main
- git push -u origin main
+ git status
+ git add .
+ git commit -m "adding data files to dvc"
+ git push
 ```
+
+
+### Push the sample data to dvc
+```
+ dvc push
+```
+
 ## Links
 
 - Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
