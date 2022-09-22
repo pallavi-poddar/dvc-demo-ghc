@@ -39,13 +39,12 @@ Git and DVC should be installed on your machine
 ![repo](https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/images/Screenshot%202022-09-22%20at%203.57.30%20PM.png)
 ### Push the code to git
 ```
- git remote add origin https://github-com/<account-name>/ghc-demo.git
+ git remote add origin https://github.com/<account-name>/ghc-demo.git
  git branch -M main
  git push -u origin main 
 ```
 You may be asked for authentication while pushing your code to git which may require a personal access token(PAT). This is link to generate PAT
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token.
 ### Create data folder and add sample data
 ```
  mkdir dataset
