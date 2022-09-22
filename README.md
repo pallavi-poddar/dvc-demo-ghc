@@ -1,35 +1,32 @@
-
-
-
-
 <!-- GETTING STARTED -->
-
 
 ## Getting Started
 
-
 ### Install git
-   #### On Windows
-   Download from here and install https://git-scm.com/download/win
+
+#### On Windows
+   Download and Install git on Windows
+   https://git-scm.com/download/win
 
 #### On Mac
-   Check if it is already installed
+   Check if git is already installed
    ```
    git --version
    ```
-   if not then download from here and install https://git-scm.com/download/mac
+   if not, download git client and install on your Mac 
+   https://git-scm.com/download/mac
 
-### Install dvc
-   #### Installing using pip
+### Install DVC
+   #### Installation done using pip
    ```
    pip install dvc
    pip install 'dvc[s3]'
    ```
-   For other install option check here https://dvc.org/doc/install
+   For other installation options, check out the link below 
+   https://dvc.org/doc/install
 
 ### Install AWS CLI
     Refer to instructions on https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
-
 
 ## Running code
 
@@ -46,7 +43,7 @@
    $ pip install -r requirements.txt
      
    ```
- 3. Execute  the following command to train the classification model
+ 3. Execute the following command to train the classification model - Breast cancer detection public dataset
  ```sh
    $ cd DVC-demo/src
    $ python3 predict_cancer.py
@@ -55,18 +52,17 @@
 
 
 <!-- CONTACT -->
-## Contact
-Usha Jagannath - [LinkedIn]() - https://www.linkedin.com/in/jagannathan-usha/
+## Contact Info
+Usha Jagannathan - [LinkedIn]() - https://www.linkedin.com/in/jagannathan-usha/
 
 Pallavi Poddar Gupta - [LinkedIn]() - https://www.linkedin.com/in/pallavi-poddar-b908b934/
 
 
-
 <!-- ACKNOWLEDGMENTS -->
-## All acknowledgments
+## Credits
 
 * [DVC](https://dvc.org)
-* [Data set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+* [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 * [GIT](https://git-scm.com/)
 
 ## Links
@@ -74,7 +70,7 @@ Pallavi Poddar Gupta - [LinkedIn]() - https://www.linkedin.com/in/pallavi-poddar
 - Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Repository: https://github.com/pallavi-poddar/DVC-demo
 - Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
-- Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
+- Cloning an existing project and executing: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
 - Changing data set: https://github.com/pallavi-poddar/dvc-demo-ghc
 
 
