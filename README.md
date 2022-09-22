@@ -3,7 +3,7 @@
 
 
 <!-- GETTING STARTED -->
-#IN PROGRESS#
+
 
 ## Getting Started
 
