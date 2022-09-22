@@ -35,7 +35,7 @@ Git and DVC should be installed on your machine
  git commit -m "initial commit"
 ```
 ### Create a new repo ghc-demo on git
-
+![repo](https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/images/Screenshot%202022-09-22%20at%203.57.30%20PM.png)
 ### Push the code to git
 ```
  git remote add origin https://github-com/<account-name>/ghc-demo.git
