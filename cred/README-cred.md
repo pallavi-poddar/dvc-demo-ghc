@@ -16,7 +16,6 @@ Default output format:
 ```
 
 Confirm access to the S3 bucket
-Add secrets
 ```
 aws s3 ls
 ```
