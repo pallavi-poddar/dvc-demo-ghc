@@ -93,7 +93,6 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 
 - Project homepage: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Repository: https://github.com/pallavi-poddar/DVC-demo
-- Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Cloning an existing project and executing: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
 - Getting started with a new project: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
 
