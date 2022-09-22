@@ -32,7 +32,7 @@ Git and DVC should be installed on your machine
 
 ### Add the files to git and commit 
 ```
- git add predict_cancer.py
+ git add src/predict_cancer.py
  git commit -m "initial commit"
 ```
 ### Create a new repo ghc-demo on git
