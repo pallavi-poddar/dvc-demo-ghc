@@ -23,7 +23,7 @@ Git, DVC and AWS CLI should be installed on your machine
 ### Pull Data from DVC
 (This step may require you to configure AWS credentials. [Click here for details](https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/cred/README-cred.md))
 ```
- DVC pull
+ dvc pull
 ```
 
 ### Goto root folder and create a python virtual environment and activate it
