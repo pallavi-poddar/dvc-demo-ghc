@@ -49,7 +49,7 @@ Git, DVC and AWS CLI should be installed on your machine
 - Repository: https://github.com/pallavi-poddar/DVC-demo
 - Kickstarting your project with GIT and DVC: https://github.com/pallavi-poddar/dvc-demo-ghc
 - Cloning an existing project and excuting: https://github.com/pallavi-poddar/dvc-demo-ghc/blob/master/README-getting-data-from-dvc.md
-- Changing data set: https://github.com/pallavi-poddar/dvc-demo-ghc
+
 
 
 
